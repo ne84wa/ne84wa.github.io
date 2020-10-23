@@ -1,4 +1,3 @@
 # ne84wa.github.io
 # kokok
-
-っこ
+簡易ページ
