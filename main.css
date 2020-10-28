@@ -1,3 +1,7 @@
 body{
-    background-color: aqua;
+    background-color: #aaa;
+}
+
+.margin_space {
+    margin: 5rem;
 }
